@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Caldeira 👋
+# Olá, eu sou o Gabriel C. 👋
 
 ### Engenheiro de Sistemas | Automação de Processos & Biotech Data
 
